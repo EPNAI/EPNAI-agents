@@ -1,7 +1,8 @@
-# MCP Agents
+# EPNAI Agents
+![EPNAI](https://github.com/user-attachments/assets/7c67076c-f1c5-4c4a-87e6-0ae3079476f5)
 
 ## Overview
-Repository containing agent templates and execution engines for the Machine-Centric Protocol (MCP) on Solana. This includes prebuilt AI agents, agent-to-context routing logic, and natural language parsing capabilities.
+Repository containing agent templates and execution engines for the Machine-Centric Protocol (EPNAI) on Solana. This includes prebuilt AI agents, agent-to-context routing logic, and natural language parsing capabilities.
 
 ## Features
 - **Agent Templates**: Foundational structures for building specialized agents
@@ -30,7 +31,7 @@ npm test
 - `/.github` - CI/CD workflows
 
 ## Links
-- [Documentation](https://github.com/MyCryptoProtocol/mcp-docs)
-- [Core Protocol](https://github.com/MyCryptoProtocol/mcp-core)
-- [Examples](https://github.com/MyCryptoProtocol/mcp-examples)
-- [Server](https://github.com/MyCryptoProtocol/mcp-server)
+- [Documentation](https://github.com/EPNAI/EPNAI-docs)
+- [Core Protocol](https://github.com/EPNAI/EPNAI-core)
+- [Examples](https://github.com/EPNAI/EPNAI-examples)
+- [Server](https://github.com/EPNAI/EPNAI-server)
